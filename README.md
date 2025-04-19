@@ -9,6 +9,7 @@ Criamos e mantemos um ecossistema de aplicações SaaS próprias, cada uma com p
 Somos dois desenvolvedores — um focado em **back-end**, outro em **front-end** — construindo juntos uma base sólida para produtos duradouros.
 
 💻 **Nossa stack principal:**
+
 - **Back-end:** PHP, Laravel, Pest (testes automatizados)
 - **Front-end:** React
 - **Infraestrutura:** Docker, Ubuntu, GitHub Actions (CI/CD)
@@ -22,4 +23,4 @@ Cada projeto é pensado para escalar desde o início. Reutilizamos componentes, 
 
 ---
 
-*Code with foco. Deploy com propósito. Orquestre com Among.* 🚀
+_Code with foco. Deploy com propósito. Orquestre com Among._ 🚀

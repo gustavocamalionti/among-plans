@@ -1,6 +1,6 @@
 # Among Tech - Base para Planos ⚙️🧩
 
-**Among Tech** 
+**Among Tech**
 Desenvolvemos soluções modernas, escaláveis e interconectadas — todas gerenciadas através de um painel administrativo central: o **Among**.
 
 🔧 **O que fazemos:**  
